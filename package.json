@@ -1,0 +1,26 @@
+{
+  "name": "random_stuff",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "author": "Sting Alleman",
+  "license": "GNU-GPLv3",
+  "private": true,
+  "dependencies": {
+    "@types/prompts": "^2.0.9",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.0",
+    "prompt": "^1.0.0",
+    "prompts": "^2.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.1",
+    "@types/node-fetch": "^2.5.7",
+    "@typescript-eslint/eslint-plugin": "^2.33.0",
+    "@typescript-eslint/parser": "^2.33.0",
+    "eslint": "^7.0.0",
+    "typescript": "^3.9.2"
+  }
+}
