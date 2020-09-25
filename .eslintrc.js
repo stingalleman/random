@@ -21,7 +21,7 @@ module.exports = {
     "prefer-arrow-callback": "warn",
     "@typescript-eslint/semi": [2, "always"],
     "@typescript-eslint/quotes": ["error", "double"],
-    "eqeqeq": "error",
+    eqeqeq: "error",
     "no-var": "error",
     "prefer-const": "error",
     "no-const-assign": "error",
